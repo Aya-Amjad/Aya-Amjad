@@ -1,9 +1,7 @@
 <h2 align="center">Hi 👋! Aya.</h2>
-<img src="243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif" style="margin-left: 450px;">
-
+<img  src="https://github.com/Aya-Amjad/Aya-Amjad/assets/109909930/956054be-0e56-4fef-a92b-0f26566863f6" style="margin-left:600" width:1000/>
 
 ###
-
 <p align="left">"I'm Aya Dawood, a recent graduate from Palestine Technical University - Kadoorie with a degree in Computer Systems Engineering. I've taken multiple courses in the field of web development and I see myself more inclined towards backend development than any other. I'm enthusiastic about learning anything new that keeps pace with the times."<br><br>Proficient in JavaScript for both frontend and backend development. 💻<br>Experienced with Node.js for building scalable server-side applications. 🚀<br>Familiar with HTML5 and CSS3 for crafting responsive and visually appealing web pages. 🎨<br>Skilled in Python programming language for backend development tasks. 🐍<br>Knowledgeable in MySQL and MongoDB for database management. 📊<br>Competent with Git for version control and collaboration on projects. 🔄<br>Capable of using Postman for API testing and development. 📝<br>Familiar with React.js for building dynamic user interfaces. ⚛️<br>Comfortable working with Bootstrap for frontend design and layout. 🎉<br>Proficient in Flask and Django frameworks for backend development. 🌐<br>Experienced in Java programming language for building robust applications. ☕<br>Knowledgeable in Oracle and PostgreSQL databases for enterprise-level applications. 🗃️<br>Enthusiastic learner, always eager to acquire new skills and stay updated with emerging technologies. 📚</p>
 
 ###
