@@ -10,7 +10,7 @@ Its primary objective is to streamline the organization of courses, room allocat
   Additionally, algorithms are employed to retrieve data and perform processing operations, 
   ultimately generating an efficient timetable tailored to the university's requirements.💻<br><br>
 
-  <br>🚀Experienced with Node.js for building scalable server-side applications. <br>
+ 🚀Experienced with Node.js for building scalable server-side applications. <br>
   🎨 Familiar with HTML5 and CSS3 for crafting responsive and visually appealing web pages. <br>
   🐍 Skilled in Python programming language for backend development tasks. 
   <br>📊Knowledgeable in MySQL and MongoDB for database management.
